@@ -1,0 +1,20 @@
+{
+    "name": "mega_api",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "dev": "nodemon start.js",
+        "start": "npm start.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "nodemon": "^2.0.12"
+    },
+    "dependencies": {
+        "child_process": "^1.0.2",
+        "open": "^8.2.1"
+    }
+}
